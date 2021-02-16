@@ -1,0 +1,15 @@
+{
+  "name": "mongoosr",
+  "version": "1.0.0",
+  "description": "First Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Akshat Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.23"
+  }
+}
